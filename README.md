@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* My personal website: <https://eric15342335.github.io>
+
+* My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf)
+
 [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=12)](https://github.com/eric15342335)
 
 <a href="https://github.com/eric15342335/eric15342335"><img src="https://img.shields.io/github/last-commit/eric15342335/eric15342335?label=profile%20updated&style=flat-square"></a>
