@@ -19,4 +19,6 @@ My personal website: <https://eric15342335.github.io>
 
 My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf)
 
-[![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=12&theme=radical)](https://github.com/eric15342335)
+| Most Used Languages | Github Statistics |
+|:-------------------:|:-----------------:|
+| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=12&theme=radical)](https://github.com/eric15342335) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github.com/eric15342335) |
