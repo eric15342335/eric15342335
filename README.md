@@ -1,24 +1,15 @@
-### Hi there 👋 <a href="https://github.com/eric15342335/eric15342335"><img src="https://img.shields.io/github/last-commit/eric15342335/eric15342335?label=profile%20updated&style=flat-square"></a>
+<div align="center">
 
-<!--
-**eric15342335/eric15342335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello!
 
 My personal website: <https://eric15342335.github.io>
 
 My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf)
 
-| Most Used Languages | Github Statistics |
-|:-------------------:|:-----------------:|
-| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=12&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=12&theme=radical) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
+| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=14&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=14&theme=radical) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
+|-|-|
+
+<a href="https://github.com/eric15342335"><img src="https://badges.pufler.dev/visits/eric15342335/eric15342335?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/eric15342335/eric15342335"><img src="https://img.shields.io/github/last-commit/eric15342335/eric15342335?label=profile%20updated&style=flat-square"></a>
+
+</div>
