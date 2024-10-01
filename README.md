@@ -2,6 +2,9 @@
 
 # Hello!
 
+I am a year 2 student studying in [The University of Hong Kong](https://www.hku.hk/), \
+[Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
+
 My personal website: <https://eric15342335.github.io>
 
 My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf)
