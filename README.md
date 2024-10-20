@@ -5,9 +5,9 @@
 I am a year 2 student studying in [The University of Hong Kong](https://www.hku.hk/), \
 [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
-My personal website: [https://eric15342335.github.io/](https://eric15342335.github.io/?utm_campaign=github_readme)
+My personal website: [https://eric15342335.github.io/](https://eric15342335.github.io/?utm_source=github)
 
-My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf?utm_campaign=github_readme)
+My curriculum vitae: [here](https://eric15342335.github.io/assets/ChengHoMingCV.pdf)
 
 | [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=14&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=14&theme=radical) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
 |-|-|
