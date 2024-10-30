@@ -9,7 +9,10 @@ My personal website: [https://eric15342335.github.io/](https://eric15342335.gith
 
 My curriculum vitae: [here](https://eric15342335.github.io/pages/cv.html)
 
-| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=10&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=20&theme=radical) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
+<!-- Excluded repositories:
+&exclude_repo=comp2120,inspirematrix-buttons
+-->
+| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=10&theme=radical&exclude_repo=comp2120,inspirematrix-buttons)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=20&theme=radical&exclude_repo=comp2120,inspirematrix-buttons) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
 |-|-|
 
 <a href="https://github.com/eric15342335"><img src="https://badges.pufler.dev/visits/eric15342335/eric15342335?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
