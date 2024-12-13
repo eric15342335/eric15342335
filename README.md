@@ -5,7 +5,7 @@
 I am a year 2 student studying in [The University of Hong Kong](https://www.hku.hk/), \
 [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
-My personal website: [https://eric15342335.github.io/](https://eric15342335.github.io/?utm_source=github)
+My personal website: [eric310.studio](https://eric310.studio/?utm_source=github)
 
 My curriculum vitae: [here](https://eric15342335.github.io/pages/cv.html)
 
