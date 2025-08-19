@@ -1,10 +1,10 @@
 # Hello!
 
-I am a year 2 student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
+I am a year 3 student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
 [Website](https://eric15342335.github.io/?utm_source=github) [Curriculum Vitae](https://eric15342335.github.io/pages/cv.html)
 
-| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=10&theme=radical&exclude_repo=comp2120,inspirematrix-buttons)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=20&theme=radical&exclude_repo=comp2120,inspirematrix-buttons) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
+| [![@eric15342335 Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=10&theme=radical&hide=html)](https://github-readme-stats.vercel.app/api/top-langs/?username=eric15342335&layout=compact&langs_count=20&theme=radical&hide=html) | [![@eric15342335 Github Statistics](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=eric15342335&show_icons=true&theme=radical) |
 |-|-|
 
 ### Language and Tools
