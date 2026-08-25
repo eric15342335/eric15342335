@@ -1,6 +1,6 @@
 # Hello!
 
-I am an year 3 undergraduate student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
+I am an year 4 undergraduate student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
 [Website](https://eric15342335.github.io/?utm_source=github) [Curriculum Vitae](https://eric15342335.github.io/pages/cv.html) [CV in LaTeX](https://github.com/eric15342335/misc/tree/main/tex/CV)
 
