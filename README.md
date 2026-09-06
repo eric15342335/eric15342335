@@ -2,6 +2,8 @@
 
 I am an year 4 undergraduate student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
+Currently, I am spending a semester at [Fudan University](https://www.fudan.edu.cn/) in Shanghai, China, studying [Computer Science and Technology](https://cs.fudan.edu.cn/main.htm) as an exchange student from HKU under the [HKU Worldwide Undergraduate Student Exchange Programme (HKUWW)](https://intlaffairs.hku.hk/hku-worldwide-student-exchange).
+
 [Website](https://eric15342335.github.io/?utm_source=github) [Curriculum Vitae](https://eric15342335.github.io/pages/cv.html) [CV in LaTeX](https://github.com/eric15342335/misc/tree/main/tex/CV)
 
 [![Linkedin: eric15342335](https://img.shields.io/badge/-Cheng%20Ho%20Ming,%20Eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric15342335/)](https://www.linkedin.com/in/eric15342335/)
