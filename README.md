@@ -1,6 +1,6 @@
 # Hello!
 
-I am an year 4 undergraduate student studying in [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
+I am a Year 4 undergraduate student studying at [The University of Hong Kong](https://www.hku.hk/), [Bachelor of Arts and Sciences in Applied Artificial Intelligence (BASc(AppliedAI))](https://saasweb.hku.hk/current/aai.php).
 
 Currently, I am spending a semester at [Fudan University](https://www.fudan.edu.cn/) in Shanghai, China, studying [Computer Science and Technology](https://cs.fudan.edu.cn/main.htm) as an exchange student from HKU under the [HKU Worldwide Undergraduate Student Exchange Programme (HKUWW)](https://intlaffairs.hku.hk/hku-worldwide-student-exchange).
 
